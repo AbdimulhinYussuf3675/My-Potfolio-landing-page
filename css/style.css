@@ -62,12 +62,19 @@
     box-shadow: 5px 5px 5px 5px lightgray;
     margin: 0 0 0 70px;
   }
-  .drinkstext {
-    display: flex;
-    flex-direction: column;
+  .myimage:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   }
   #Projects{
     margin-left: 5%;
+}
+.footer{
+    background-color: black;
+    width:100%;
+    padding-left:0px;
+}
+#footer{
+    text-align: center;
+    padding: ;
+}
 
-
-  }
