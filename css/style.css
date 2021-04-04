@@ -53,6 +53,12 @@
     box-sizing: border-box;
     border-radius: 4px;
   }
+  .aboutme{
+    border: white solid 1px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    margin: 0 0 0 70px; 
+  }
   .myimage {
     height: 50%;
     display: flex;
@@ -66,7 +72,7 @@
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   }
   #Projects{
-    margin-left: 5%;
+    margin-left: 4%;
 }
 .footer{
     background-color: black;
