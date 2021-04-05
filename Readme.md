@@ -1,4 +1,4 @@
-# MY Potfolio Landing Page
+# My Potfolio Landing Page
 ## Description
 This is a landing page for  web-potfolio that showcases all of my work, skills, background and all of my projects.
 ### Setup
